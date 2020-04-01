@@ -1,10 +1,10 @@
 # cpp-Notes
-##What is C++
+## What is C++
 C++ is a general purpose, case-sensitive, free-form programming language that supports object-oriented, procedural and generic programming.
 
 C++ is a middle-level language, as it encapsulates both high and low level language features.
 
-##Difference between c and c++
+## Difference between c and c++
 
 
 No.	C	C++
@@ -21,27 +21,27 @@ No.	C	C++
 11)	Exception handling is not easy in C. It has to perform using other functions.	C++ provides exception handling using Try and Catch block.
 12)	C does not support the inheritance.	C++ supports inheritance.
 
-##C++ Features
+## C++ Features
 
 Simple
-###Machine Independent or Portable
+### Machine Independent or Portable
 Unlike assembly language, c programs can be executed in many machines with little bit or no change. But it is not platform-independent.
 
 Mid-level programming language
 Structured programming language
 Rich Library
-###Memory Management
+### Memory Management
 It supports the feature of dynamic memory allocation. In C++ language, we can free the allocated memory at any time by calling the free() function.
 Fast Speed
 Pointers
 Recursion
-###Extensible
+### Extensible
 C++ language is extensible because it can easily adopt new features.
 
 Object Oriented
 Compiler based
 
-###getch() The getch() function asks for a single character. Until you press any key, it blocks the screen.
+### getch() The getch() function asks for a single character. Until you press any key, it blocks the screen.
 
 
 
