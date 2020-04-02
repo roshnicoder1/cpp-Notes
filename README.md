@@ -42,6 +42,21 @@ Object Oriented
 Compiler based
 
 ### getch() The getch() function asks for a single character. Until you press any key, it blocks the screen.
+### A variable can start with underscore.
+int 2byte
+long int 4 byte
+float 4 byte
+double 8 byte
+
+### Precedence of operator
+https://www.javatpoint.com/cpp-operators
+
+### The major difference between C and C++ is the limit on the length of the name of the variable. ANSI C considers only the first 32 characters in a name while ANSI C++ imposes no limit on the length of the name.
+
+### https://www.javatpoint.com/cpp-storage-classes
+
+
+
 
 
 
