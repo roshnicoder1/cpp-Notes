@@ -43,6 +43,9 @@ Compiler based
 
 ### getch() The getch() function asks for a single character. Until you press any key, it blocks the screen.
 ### A variable can start with underscore.
+## DataTypes
+https://1drv.ms/u/s!Aka_I4KlDtvLhFtMfUzjsuiNth1G?e=hKPE6Z
+
 int 2byte
 long int 4 byte
 float 4 byte
