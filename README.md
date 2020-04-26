@@ -58,6 +58,8 @@ https://www.javatpoint.com/cpp-operators
 
 ### https://www.javatpoint.com/cpp-storage-classes
 
+https://www.codechef.com/ioi/basics
+
 
 
 
